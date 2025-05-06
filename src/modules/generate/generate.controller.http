@@ -1,0 +1,11 @@
+POST localhost:5555/generate
+Content-Type: application/json
+
+{
+  "items": [
+    1,
+    2,
+    1
+  ],
+  "length": 2
+}
