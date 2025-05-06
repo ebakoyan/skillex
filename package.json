@@ -6,8 +6,7 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    "start": "docker-compose up -d --build",
-    "test": "node test.js"
+    "start": "docker-compose up -d --build"
   },
   "dependencies": {
     "@nestjs/common": "^11.0.1",
